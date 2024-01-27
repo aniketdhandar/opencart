@@ -1,0 +1,15 @@
+23:09:15.018 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on ClickeRegister link
+23:09:16.358 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+23:09:19.105 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+23:09:19.180 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+23:09:19.713 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+23:09:19.715 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+23:09:19.923 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+01:12:03.860 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  TC_001 TestStart  ****
+01:12:06.955 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+01:12:07.799 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on ClickeRegister link
+01:12:09.174 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+01:15:26.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  TC_001 TestStart  ****
+01:15:29.640 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+01:15:31.078 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on ClickeRegister link
+01:15:32.534 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
